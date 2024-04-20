@@ -24,6 +24,8 @@ Com um percurso profissional que se estende por mais de 30 anos, acumulei uma va
 ![ORACLE](https://img.shields.io/badge/ORACLE-%2300599C.svg?style=for-the-badge&logo=ORACLE%2B%2B&logoColor=white)
 ![SPRING BOOT](https://img.shields.io/badge/SPRINGBOOT-%2300599C.svg?style=for-the-badge&logo=SPRING%2B%2B&logoColor=white)
 ![ANGULAR](https://img.shields.io/badge/ANGULAR-%2300599C.svg?style=for-the-badge&logo=ANGULAR%2B%2B&logoColor=white)
+![MONGO-DB](https://img.shields.io/badge/MONGO_DB-%23099C.svg?style=for-the-badge&logo=MONGO%2B%2B&logoColor=white)
+![MONGO-DB](https://img.shields.io/badge/KAFKA-%23099C.svg?style=for-the-badge&logo=MONGO%2B%2B&logoColor=white)
 
 
 
